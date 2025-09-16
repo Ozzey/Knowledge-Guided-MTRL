@@ -1,4 +1,4 @@
-# Code for "Knowledge-Guided Manipulation Using Multi-Task Reinforcement Learning"
+# Knowledge-Guided Manipulation Using Multi-Task Reinforcement Learning
 
 *This is a placeholder repository for the ICRA 2026 submission #XXXX. The code is currently undergoing finalization and will be released here promptly after the anonymity period ends.*
 
